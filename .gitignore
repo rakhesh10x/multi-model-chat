@@ -213,3 +213,6 @@ models/
 *.pt
 chat_history.json
 chat_sessions.json
+models/
+*.pt
+*.model
