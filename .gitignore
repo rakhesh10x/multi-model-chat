@@ -209,3 +209,7 @@ models/
 *.pt
 *.bin
 *.safetensors
+models/
+*.pt
+chat_history.json
+chat_sessions.json
